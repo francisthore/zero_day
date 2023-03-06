@@ -1,1 +1,1 @@
-Distribution
+system information
